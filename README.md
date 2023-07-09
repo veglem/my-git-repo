@@ -61,4 +61,6 @@
      [![2023-07-09-20-22-40.png](https://i.postimg.cc/RhdvbV8z/2023-07-09-20-22-40.png)](https://postimg.cc/y3JqDBsf)
 4. - [x] Добавлены файлы `.gitignore`, `log.txt`, `notes.txt` и `log.txt` был внесен в список игнорируемых фыйлов
      [![2023-07-09-20-42-38.png](https://i.postimg.cc/4x5F7HcG/2023-07-09-20-42-38.png)](https://postimg.cc/gxxK1J4t)
-5. -
+5. - [x] Разрешен конфликт в разных ветках
+     [![2023-07-09-21-10-02.png](https://i.postimg.cc/sfZRqmkN/2023-07-09-21-10-02.png)](https://postimg.cc/c6Zj8R4R)
+     [![2023-07-09-21-10-19.png](https://i.postimg.cc/9FdHFMFP/2023-07-09-21-10-19.png)](https://postimg.cc/562Rsfzj)
