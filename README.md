@@ -56,5 +56,7 @@
 1. - [x] Cоздан репозиторий my-git-repo на github и добавлен README.md
      [![2023-07-09-20-08-01.png](https://i.postimg.cc/d1wnQHh9/2023-07-09-20-08-01.png)](https://postimg.cc/bGV13RHG)
 2. - [x] Репозиторий склонирован на локальный компьютер
-[![2023-07-09-19-44-15.png](https://i.postimg.cc/qq1Hk6Q1/2023-07-09-19-44-15.png)](https://postimg.cc/5QQRg0hz)
-3. - []
+     [![2023-07-09-19-44-15.png](https://i.postimg.cc/qq1Hk6Q1/2023-07-09-19-44-15.png)](https://postimg.cc/5QQRg0hz)
+3. - [x] Файл `README.md` отредактирован и добавлен в коммит
+     [![2023-07-09-20-22-40.png](https://i.postimg.cc/RhdvbV8z/2023-07-09-20-22-40.png)](https://postimg.cc/y3JqDBsf)
+4. - [x] 
