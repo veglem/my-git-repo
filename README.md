@@ -59,4 +59,6 @@
      [![2023-07-09-19-44-15.png](https://i.postimg.cc/qq1Hk6Q1/2023-07-09-19-44-15.png)](https://postimg.cc/5QQRg0hz)
 3. - [x] Файл `README.md` отредактирован и добавлен в коммит
      [![2023-07-09-20-22-40.png](https://i.postimg.cc/RhdvbV8z/2023-07-09-20-22-40.png)](https://postimg.cc/y3JqDBsf)
-4. - [x] 
+4. - [x] Добавлены файлы `.gitignore`, `log.txt`, `notes.txt` и `log.txt` был внесен в список игнорируемых фыйлов
+     [![2023-07-09-20-42-38.png](https://i.postimg.cc/4x5F7HcG/2023-07-09-20-42-38.png)](https://postimg.cc/gxxK1J4t)
+5. -
