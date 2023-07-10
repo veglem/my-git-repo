@@ -84,3 +84,11 @@
 
 [![2023-07-10-21-28-18.png](https://i.postimg.cc/RCsnTnYG/2023-07-10-21-28-18.png)](https://postimg.cc/fkdLzkD0)
 [![2023-07-10-21-28-42.png](https://i.postimg.cc/q7s3cDfC/2023-07-10-21-28-42.png)](https://postimg.cc/WD4zTn12)
+
+2. - [x] Перенести commit из одной ветки в другую
+
+Для переноса коммита была использована `cherry-pick`. Перенос был сделан в ветку `renamed-commit`.
+
+[![2023-07-10-21-28-18.png](https://i.postimg.cc/kgF11mbn/2023-07-10-21-51-22.png)](https://postimg.cc/fkdLzkD0)
+[![2023-07-10-21-28-42.png](https://i.postimg.cc/0NkthBY7/2023-07-10-21-51-35.png)](https://postimg.cc/WD4zTn12)
+[![2023-07-10-21-28-18.png](https://i.postimg.cc/CKcv0s7X/2023-07-10-21-51-44.png)](https://postimg.cc/fkdLzkD0)
