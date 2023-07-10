@@ -92,3 +92,6 @@
 [![2023-07-10-21-28-18.png](https://i.postimg.cc/kgF11mbn/2023-07-10-21-51-22.png)](https://postimg.cc/fkdLzkD0)
 [![2023-07-10-21-28-42.png](https://i.postimg.cc/0NkthBY7/2023-07-10-21-51-35.png)](https://postimg.cc/WD4zTn12)
 [![2023-07-10-21-28-18.png](https://i.postimg.cc/CKcv0s7X/2023-07-10-21-51-44.png)](https://postimg.cc/fkdLzkD0)
+
+3. - [x] создать ветку `feature-X`, внести туда изменения, залить на сервер, создать от этой ветки еще одну `feature-Y`, внести в нее изменения, удалить `feature-X` с сервера, замержить `feature-Y` в `master`)
+
